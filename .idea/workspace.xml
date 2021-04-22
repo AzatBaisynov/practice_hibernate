@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0abd874-89bd-4692-929e-551f0f55faf9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qsh8bNI4IPzrTWDU2oNqYHTDBC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\itacademy\src\main\java\dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="itacademy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0abd874-89bd-4692-929e-551f0f55faf9" name="Default Changelist" comment="" />
+      <created>1617874046384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617874046384</updated>
+      <workItem from="1617874052282" duration="9074000" />
+      <workItem from="1618172290360" duration="20346000" />
+      <workItem from="1618483386976" duration="7495000" />
+      <workItem from="1618755440597" duration="22637000" />
+      <workItem from="1619065521271" duration="178000" />
+      <workItem from="1619083767972" duration="15371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Auto_Import" timestamp="1618493973849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1618493973849" />
+    <state x="361" y="77" width="814" height="722" key="#Intentions" timestamp="1618953581765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="77" width="814" height="722" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1618953581765" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1617882302454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1617882302454" />
+    <state x="1010" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1619097332150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1010" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1619097332150" />
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1618493414547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1618493414547" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619088670406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1619088670406" />
+    <state width="1493" height="296" key="GridCell.Tab.0.bottom" timestamp="1619104827895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619104827895" />
+    <state width="1493" height="296" key="GridCell.Tab.0.center" timestamp="1619104827894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619104827894" />
+    <state width="1493" height="296" key="GridCell.Tab.0.left" timestamp="1619104827894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619104827894" />
+    <state width="1493" height="296" key="GridCell.Tab.0.right" timestamp="1619104827895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619104827895" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1619099920229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619099920229" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1619099920229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1619099920229" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1619099920229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1619099920229" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1619099920229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1619099920229" />
+    <state x="296" y="49" key="SettingsEditor" timestamp="1618333732524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="296" y="49" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618333732524" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1619083767980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1619083767980" />
+    <state x="209" y="117" key="new project wizard" timestamp="1617887503119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1617887503119" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1619084795966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1619084795966" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="firstStudent.teachers.toArray()[0]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
